@@ -101,6 +101,7 @@ BOOL CTestRepo1Dlg::OnInitDialog()
 	// TODO: 在此添加额外的初始化代码
 
 	AfxMessageBox(_T("Hello world!!!"));
+	AfxMessageBox(_T("Hello again!!!"));
 
 	return TRUE;  // 除非将焦点设置到控件，否则返回 TRUE
 }
