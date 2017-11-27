@@ -104,6 +104,7 @@ BOOL CTestRepo1Dlg::OnInitDialog()
 	AfxMessageBox(_T("Hello again!!!"));
 	AfxMessageBox(_T("Hello Thirdly!!!"));
 	AfxMessageBox(_T("Hello Forthly!"));
+	AfxMessageBox(_T("Hello Fivthly!"))
 
 	return TRUE;  // 除非将焦点设置到控件，否则返回 TRUE
 }
